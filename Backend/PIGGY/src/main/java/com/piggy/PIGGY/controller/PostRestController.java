@@ -19,9 +19,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
+import com.piggy.PIGGY.dto.ImageDto;
 import com.piggy.PIGGY.dto.PostAreaStatisticDto;
 import com.piggy.PIGGY.dto.PostCategoryStatisticDto;
-import com.piggy.PIGGY.dto.ImageDto;
 import com.piggy.PIGGY.dto.PostInputDto;
 import com.piggy.PIGGY.dto.PostOutputDto;
 import com.piggy.PIGGY.dto.ResultDto;
