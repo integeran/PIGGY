@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/java,gradle,eclipse
 
-.resources/piggy-credential.json
+src/main/resources/piggy-credential.json
 
 ### Eclipse ###
 .metadata
